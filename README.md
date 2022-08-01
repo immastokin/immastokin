@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Silver Waddle](https://github.com/immastokin/silver-waddle)
+- 🔭 I’m currently learning investing on [Silver Waddle](https://investormoney.com/)
+
+- 🌱 I’m currently working on [Silver Waddle](https://github.com/immastokin/silver-waddle)
 
 - 🌱 I’m currently learning **Ruby Rails**
 
