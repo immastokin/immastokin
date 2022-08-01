@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h1 align="center"> - 🔭 I’m currently learning investing on [Investor Money](https://investormoney.com/) </h1>
+<p align="center"> - 🔭 I’m currently learning investing on [Investor Money](https://investormoney.com/) </p>
 
 - 🌱 I’m currently working on [Silver Waddle](https://github.com/immastokin/silver-waddle)
 
